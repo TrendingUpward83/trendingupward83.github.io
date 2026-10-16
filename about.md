@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Supply Chain Tech + Coding career pivoting into cybersecurity
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Systems thinker with a deep interest in how things work and what causes them to break.
 
 ### Contact me
 
